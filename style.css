@@ -1,0 +1,48 @@
+
+#navbar{
+    background-color: rgb(13, 9, 73);
+}
+.logo{
+    width: 125px;
+}
+.home{
+    margin-top: 17px;
+}
+.imagesize{
+    height: 350px;
+}
+
+.black{
+    background-color: rgb(13, 9, 73);
+}
+#abc{
+    color: gold;
+    margin-left: 125px;
+}
+#def{
+    color: gold;
+}
+#ghi{
+    color: gold;
+}
+#jkl{
+    color: gold;
+}
+
+#footercontent{
+    height: 100px;
+    
+  
+}
+.image{
+    justify-content: center;
+    align-items: center;
+    width: 125px;
+}
+.regstr{
+  
+    color: rgb(156, 8, 8);
+}
+#form123{
+    color: rgb(156, 8, 8);
+}
